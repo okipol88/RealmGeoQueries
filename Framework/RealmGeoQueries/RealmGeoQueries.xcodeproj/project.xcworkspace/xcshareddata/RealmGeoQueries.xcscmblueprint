@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "D692C87B94A1B3752F035C5FF5C9AEF72A011A02",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "90c72ef5-1fdf-4a43-8847-ad0fdc5943b3" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D692C87B94A1B3752F035C5FF5C9AEF72A011A02" : 0,
+    "90c72ef5-1fdf-4a43-8847-ad0fdc5943b3" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D1F3CB93-55A2-4977-9B9C-29B8047E8345",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D692C87B94A1B3752F035C5FF5C9AEF72A011A02" : "RealmGeoQueries\/",
+    "90c72ef5-1fdf-4a43-8847-ad0fdc5943b3" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "RealmGeoQueries",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Framework\/RealmGeoQueries\/RealmGeoQueries.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/itgen1.cloudapp.net:8443\/svn\/Hospitals",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "90c72ef5-1fdf-4a43-8847-ad0fdc5943b3"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/okipol88\/RealmGeoQueries.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D692C87B94A1B3752F035C5FF5C9AEF72A011A02"
+    }
+  ]
+}
