@@ -275,13 +275,14 @@ private extension Array where Element:Object {
     
 }
 
-private extension Object {
+public extension Object {
     
     private struct AssociatedKeys {
         static var DistanceKey = "DistanceKey"
     }
     
-    private var objDist: Double {
+    /// The object distance in meters from the last query distance calculated by GeoQueries
+    public private(set) var objDist: Double {
         get {
             guard let value = objc_getAssociatedObject(self, &AssociatedKeys.DistanceKey) as? Double else { return 0.0 }
             return value
